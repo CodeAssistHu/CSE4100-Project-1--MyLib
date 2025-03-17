@@ -6,7 +6,6 @@
 Sogang University
 Project #1: MyLib
 : System Programming
-Project Due: March 29, 2024
 
 
 
